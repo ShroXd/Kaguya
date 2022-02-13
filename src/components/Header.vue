@@ -21,7 +21,7 @@ const { t } = useI18n()
     </a>
 
     <button class="flex items-center icon-btn ml-2 !outline-none" :title="t('button.toggle_dark')" @click="toggleDark()">
-      <carbon-moon v-if="!isDark" />
+      <carbon-moon v-if="isDark" />
       <carbon-sun v-else />
     </button>
   </nav>

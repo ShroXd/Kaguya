@@ -12,6 +12,7 @@ declare module 'vue' {
     CarbonMoon: typeof import('~icons/carbon/moon')['default']
     CarbonMountain: typeof import('~icons/carbon/mountain')['default']
     CarbonSun: typeof import('~icons/carbon/sun')['default']
+    Card: typeof import('./components/Card.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
     Header: typeof import('./components/Header.vue')['default']
