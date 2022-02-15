@@ -36,6 +36,7 @@
     "markdown-it-link-attributes": "^4.0.0",
     "markdown-it-prism": "^2.2.2",
     "pnpm": "^6.30.1",
+    "sass": "^1.49.7",
     "typescript": "^4.5.5",
     "unplugin-auto-import": "^0.5.11",
     "unplugin-icons": "^0.13.1",
